@@ -46,8 +46,8 @@ APP_SECRET: 微信公众号的app_secret
 USER_IDS: 接收者ID（多个用分号;分隔，示例："xxx;xxx"）
 TEMPLATE_ID_DAY: 白天模板ID
 TEMPLATE_ID_NIGHT: 晚上模板ID
-NAME: 接收者昵称（示例："牛牛"）
-CITY: 城市名称（示例："上海"）
+NAME: 接收者昵称（示例："小A"）
+CITY: 城市名称（示例："北京"）
 ```
 
 ### 4. 配置模板消息
