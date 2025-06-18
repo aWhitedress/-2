@@ -130,7 +130,7 @@ CITY: 城市名称（示例："北京"）
 <div style="border: 2px solid #dc3545; padding: 15px; border-radius: 5px; margin: 20px 0;">
   <h4 style="color: #dc3545; margin-top: 0;">⚠️ 重要提示</h4>
   <ul style="margin-bottom: 0;">
-    <li>本代码遵循 GPL-3.0 License 协议</li>
+    <li>本代码遵循 <a href="https://github.com/SJYssr/SJYssr/blob/main/LICENSE">GPL-3.0 License</a> 协议</li>
     <li>允许开源/免费使用和引用/修改/衍生代码的开源/免费使用</li>
     <li>不允许修改和衍生的代码作为闭源的商业软件发布和销售</li>
     <li>禁止使用本代码盈利</li>
