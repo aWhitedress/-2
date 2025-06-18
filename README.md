@@ -105,6 +105,26 @@ CITY: 城市名称（示例："上海"）
 - 模板消息需要按照指定格式配置
 - 确保接收者已关注测试号
 
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #58A6FF; margin-top: 0;">❤️ Support My Work</h3>
+  <p style="color: #C9D1D9;">If you find my projects useful, please consider:</p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 10px 0;">
+    <img src="https://img.shields.io/badge/Star-Follow-blue?style=for-the-badge" alt="Star" />
+    <img src="https://img.shields.io/badge/Fork-Contribute-green?style=for-the-badge" alt="Fork" />
+    <img src="https://img.shields.io/badge/Follow-Updates-yellow?style=for-the-badge" alt="Follow" />
+  </div>
+  
+  <h3 style="color: #58A6FF;">🐛 Found a Bug?</h3>
+  <p style="color: #C9D1D9;">Feel free to:</p>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin: 10px 0; color: #C9D1D9;">📝 Open an Issue (I'll check it when I have time)</li>
+    <li style="margin: 10px 0; color: #C9D1D9;">💝 Or show your appreciation to get a quicker response</li>
+  </ul>
+  
+  <img src="https://github.com/SJYssr/img/raw/main/1/zanshang.jpg" alt="Appreciation" width="300" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <p><i>Your support is the motivation that drives me to keep updating.</i></p>
+</div>
+
 ## 📜 免责声明
 
 <div style="border: 2px solid #dc3545; padding: 15px; border-radius: 5px; margin: 20px 0;">
