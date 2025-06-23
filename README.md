@@ -35,8 +35,7 @@
 
 ### 3. 配置项目
 1. Fork 本仓库
-2. 在仓库的 Settings -> Secrets and variables -> Actions 中添加以下 Secrets：
-
+2. 添加相关配置
 ```
 START_DATE: 纪念日（格式：YYYY-MM-DD，示例："2021-03-14"）
 APP_KEY: 和风天气API密钥
