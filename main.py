@@ -39,7 +39,7 @@ template_id_night = "X6cM3FwC43mWYiwIchR-BxDq_Vw9Mu8mU358JSfjm2s"
 name = '小青'
 # 城市
 city = '重庆'
-
+https://pg2tunmnx6.re.qweatherapi.com/geo/v2/city/lookup
 
 # 当前时间
 today = datetime.now()
