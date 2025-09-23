@@ -38,7 +38,7 @@ template_id_night = "X6cM3FwC43mWYiwIchR-BxDq_Vw9Mu8mU358JSfjm2s"
 # 呢称
 name = '小青'
 # 城市
-city = '重庆'
+city = '北碚'
 
 
 # 当前时间
