@@ -56,7 +56,7 @@ params = {
 }
 print(params)
 # 根据城市名查找地理位置
-url = "https://n93jpfeh9u.re.qweatherapi.com/geo/v2/city/lookup"
+url = "https://pg2tunmnx6.re.qweatherapi.com/geo/v2/city/lookup"
 
 resp = requests.get(url, params=params, headers=headers)
 if resp.status_code == 200:
